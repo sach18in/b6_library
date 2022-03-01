@@ -15,3 +15,6 @@ class Book(models.Model):
 
 class company(models.Model):
     pass
+
+class book_auther(models.Model):
+    pass
